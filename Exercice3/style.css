@@ -1,0 +1,24 @@
+.titre{
+    font-weight: bold;
+}
+
+.gras{
+    font-weight: bold;
+    text-align: center
+ }
+ /* DESSOUS : Code de base pour inserer un tableau */
+ /* si je met un border aux cellules et a la table, cela va creer un contour donc un tableau */
+table{
+  
+    border: 1px solid black;
+  }
+  
+td{
+    border: 1px solid black;
+}
+
+
+
+
+
+
