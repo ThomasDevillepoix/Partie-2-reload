@@ -1,0 +1,19 @@
+.Box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Box1{
+    background-color: #2ecc71;
+    height: 45px;
+    width: 80%;
+}
+.Box2{
+    background-color: #2980b9;
+    height: 45px;
+    width: 20%;
+}
+.Box3{
+    background-color: #e74c3c;
+    height: 160px;
+    width: 34%;
+}
