@@ -1,0 +1,54 @@
+.First{
+    background-color: #2ecc71;
+    width: 80%;
+    height: 45px;
+    float: left;
+}
+.Snd{
+    background-color: #2980b9;
+    width: 20%;
+    height: 45px;
+    float: left;
+}
+.Trd{
+    background-color:#e74c3c ;
+    width: 34%;
+    height: 160px;
+    float: left;
+}
+.Four{
+    background-color:#e67e22 ;
+    width: 33%;
+    height: 80px;
+    float: left;
+}
+.Five{
+    background-color: #95a5a6;
+    width: 33%;
+    height: 80px;
+    float: left;
+}
+.Six{
+    background-color: #f39c12;
+    width: 22%;
+    height: 80px;
+    float: left;
+}
+.Svn{
+background-color: #16a085;
+    width: 22%;
+    height: 80px;
+    float: left;
+}
+.Egt{
+    background-color: #d35400;
+        width: 22%;
+        height: 80px;
+        float: left;
+}
+.Nine{
+    background-color: #2c3e50;
+        width: 100%;
+        height: 205px;
+        float: left;
+}
